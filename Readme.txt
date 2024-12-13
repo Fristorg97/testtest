@@ -3,5 +3,5 @@ sadf
 asdf
 
 int main(){
-    printf("Hello world);
+    printf("HW!");
 }
